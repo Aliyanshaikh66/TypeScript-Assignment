@@ -2,7 +2,7 @@ let car = "Honda";
 console.log(`Is car == Honda?`);
 console.log(car == "Honda");
 
-let myName = "Fahad";
+let myName = "Noufil";
 console.log(`Is myName !== Asim?`);
 console.log(myName !== "Asim");
 

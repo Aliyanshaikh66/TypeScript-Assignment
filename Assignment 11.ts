@@ -1,4 +1,4 @@
-let names = ["Bilal", "Nashit", "Ashar", "Amaan", "Hassan", "Anas"];
+let names = ["Aliyan", "Ali", "Shehzad", "karim", "Anas", "Noufil"];
 console.log(names[0]);
 console.log(names[1]);
 console.log(names[2]);

@@ -1,5 +1,5 @@
-let myName = "Fahad";
-console.log(myName == "Fahad");
+let myName = "Aliyan";
+console.log(myName == "Aliyan");
 
 let complection = "Brown";
 console.log(complection != "Brown");
@@ -54,6 +54,6 @@ console.log(
     : "You are not allowed be a Pakistani NIC "
 );
 
-let friends = ["Ashar", "Bilal", "Nashit"];
-console.log(friends.includes("Ashar"));
-console.log(friends.includes("Amaan"));
+let friends = ["Anas", "Bilal", "Karim"];
+console.log(friends.includes("Asif"));
+console.log(friends.includes("Ahad"));

@@ -1,4 +1,4 @@
-const full_name = "\tfahad\n";
+const full_name = "\taliyan\n";
 
 // Name with White Spaces
 console.log(full_name);

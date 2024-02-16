@@ -1,12 +1,12 @@
-const fname = "Rao Fahad khAn";
+const fname = "Aliyan Shaikh";
 
-// name in lower case
+// // name in lower case
 console.log(fname.toLowerCase());
 
-// name in upper case
+// // name in upper case
 console.log(fname.toUpperCase());
 
-// name in title case
+// // name in title case
 
 function titleCase(name1) {
   name1 = name1.toLowerCase().split(" ");

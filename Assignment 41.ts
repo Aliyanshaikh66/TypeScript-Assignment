@@ -1,4 +1,4 @@
-let magician_names = ["fahad", "hamza", "sami", "amaan"];
+let magician_names = ["Aliyan", "Shehzad", "Karim", "Anas"];
 
 function show_magicians(magician_name) {
   for (let i = 0; i < magician_name.length; i++) {

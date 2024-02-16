@@ -1,6 +1,6 @@
-let current_users = ["fahad", "asim", "amaan", "hassan", "anas", "aslam"];
+let current_users = ["Aliyan", "Shehzad", "ameen", "Anas", "Ahad", "aslam"];
 
-let new_users = ["naseer", "murtaza", "Asim", "anas", "wajid"];
+let new_users = ["Ahad", "murtaza", "Shehzad", "anas", "wajid"];
 
 new_users.map((new_user) => {
   if (current_users.includes(new_user)) {

@@ -1,4 +1,4 @@
-let names = ["Bilal", "Nashit", "Ashar", "Amaan", "Hassan", "Anas"];
+let names = ["Aliyan", "Ali", "Shehzad", "Karim", "Anas", "Noufil"];
 console.log(`${names[0]} is a Medical Representative`);
 console.log(`${names[1]} is a Web Developer`);
 console.log(`${names[2]} is also a Medical Representative`);
